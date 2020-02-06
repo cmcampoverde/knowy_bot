@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113018296919",
+    "firebase_url": "https://knowybot.firebaseio.com",
+    "project_id": "knowybot",
+    "storage_bucket": "knowybot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113018296919:android:1b6fb32063c52b620da112",
+        "android_client_info": {
+          "package_name": "com.mineria.knowy_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113018296919-ev6nui6d3d8ciibuinamkt8cgrgqrql8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMg6BF_14pRtTFcZH6Bb5ziNXdHUpHdvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113018296919-ev6nui6d3d8ciibuinamkt8cgrgqrql8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
